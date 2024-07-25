@@ -1,12 +1,11 @@
-# CRUD Documentation
+# Test PT Nasari Digital
 
 ## Overview
-This document outlines the setup and structure of CRUD. This apps are using :
+This document outlines the setup and structure of Test PT Nasari Digital. This apps are using :
 - Laravel 11 as main framework
 - MySQL for database
 - Laravel Passport for authentication
 - Laravel Telescope for monitoring
-- Throttle limit for every endpoint with 100 request per 1 minute
 
 ## System Requirements
 - PHP >= 8.2
@@ -19,7 +18,7 @@ This document outlines the setup and structure of CRUD. This apps are using :
 
    Clone the project and move to project directory
    ```bash
-   git clone https://github.com/codenameryuu/simple-api-laravel.git
+   git clone https://github.com/codenameryuu/test-pt-nasari-digital.git
    ```
 
 2. **Install Dependencies**
@@ -69,13 +68,8 @@ This document outlines the setup and structure of CRUD. This apps are using :
    php artisan passport:client --personal
    ```
 
-## Postman Documentation
-```bash
-https://documenter.getpostman.com/view/14479523/2sA3kXDzen
-```
-
 ## Contributing
-Contributions to the CRUD project are welcome. Please ensure that your code adheres to the Laravel best practices and include tests for new features.
+Contributions to the Test PT Nasari Digital project are welcome. Please ensure that your code adheres to the Laravel best practices and include tests for new features.
 
 ## License
-This CRUD is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This Test PT Nasari Digital is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

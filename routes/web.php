@@ -13,6 +13,3 @@
 
 require __DIR__ . '/web/auth_route.php';
 require __DIR__ . '/web/main_menu_route.php';
-require __DIR__ . '/web/product_category_route.php';
-require __DIR__ . '/web/product_route.php';
-require __DIR__ . '/web/transaction_route.php';

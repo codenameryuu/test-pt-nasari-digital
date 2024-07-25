@@ -36,7 +36,7 @@ const fv = FormValidation.formValidation(form, {
   init: (instance) => {
     instance.on("plugins.message.placed", function (e) {
       if (e.element.parentElement.classList.contains("input-group")) {
-        e.element.parentElement.insertAdjacentElement("afterend", e.messageElement);
+        e.element.insertAdjacentElement("afterend", e.messageElement);
       }
     });
   },

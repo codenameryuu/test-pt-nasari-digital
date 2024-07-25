@@ -4,7 +4,7 @@
             <div class="col">
                 <div class="text-sm-start text-center mx-md-2">
                     <p class="mb-0 text-muted">
-                        © CRUD All Right Reserved
+                        © Nasari Digital All Right Reserved
                     </p>
                 </div>
             </div>

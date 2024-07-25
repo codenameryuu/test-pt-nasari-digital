@@ -12,7 +12,7 @@ class MetadataHelper
     public static function metadata()
     {
         $result = (object) [
-            'title' => 'CRUD',
+            'title' => 'Nasari Digital',
             'description' => '',
             'keywords' => '',
         ];
