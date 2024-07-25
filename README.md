@@ -64,9 +64,9 @@ This document outlines the setup and structure of Test PT Nasari Digital. This a
    ```
 
 10. **Generate Personal Access Client**
-   ```bash
-   php artisan passport:client --personal
-   ```
+      ```bash
+      php artisan passport:client --personal
+      ```
 
 ## Contributing
 Contributions to the Test PT Nasari Digital project are welcome. Please ensure that your code adheres to the Laravel best practices and include tests for new features.
